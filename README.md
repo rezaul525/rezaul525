@@ -17,6 +17,9 @@ Here are some of the tools and technologies I'm proficient in:
 - Manual Testing: Carnesia Web Application, Academy LMS Plugin 
 - Performance Testing: Peak Learn Test
 - Test Management: Jira, ClickUp
+- API Testing: APIQuestEdu, Smart Student Hub API Testing, Data-Driven-API
+- API Tools: PostMan, Newman
+- Database: MySQL
 
 ### 📈 GitHub Projects
 
