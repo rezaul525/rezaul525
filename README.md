@@ -4,7 +4,7 @@ I'm passionate about ensuring that software meets the highest standards of quali
 
 ### 🌐 Professional Overview
 
-- 🔭 I'm currently working as a Officer Product Management, ERP(Operation) and SQA at Experience Design Limited.
+- 🔭 I'm currently working as a Officer Product Management, ERP(Operation) and SQA at Experience Design Limited via Experience Group.
 - 🌱 I specialize in creating and implementing comprehensive test plans, strategies, and test cases.
 - 👯 I collaborate closely with cross-functional teams, developers, and product managers to ensure a seamless integration of quality into the development lifecycle.
 - 💬 I'm always excited to discuss best practices in testing, test automation, and quality assurance methodologies.
