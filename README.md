@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Md Rezaul Islam - Software Quality Assurance Specialist
+## 👋 Hello, I'm Md Rezaul Islam - Full Stack Software Quality Assurance Engineer
 
 I'm passionate about ensuring that software meets the highest standards of quality. With a keen eye for detail and a dedication to delivering flawless user experiences, I work in the field of Software Quality Assurance (SQA).
 
@@ -13,10 +13,10 @@ I'm passionate about ensuring that software meets the highest standards of quali
 
 Here are some of the tools and technologies I'm proficient in:
 
-- Test Automation: Selenium, TestNG
-- Manual Testing: Carnesia Web Application, Academy LMS Plugin 
-- Performance Testing: Peak Learn Test
-- Test Management: Jira, ClickUp
+- Test Automation: Selenium, TestNG, Cypress, Rest Assure
+- Manual Testing: Carnesia Web Application, Academy LMS Plugin, Dmoney Transaction
+- Performance Testing: Peak Learn Test, Random Performence Testing, Stress testing, Load Testing
+- Test Management: Jira, ClickUp, Trello
 - API Testing: APIQuestEdu, Smart Student Hub API Testing, Data-Driven-API
 - API Tools: PostMan, Newman
 - Database: MySQL
